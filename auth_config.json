@@ -1,4 +1,5 @@
 ﻿{
-  "domain": "dhJgBgifdYlPAwJHq7WSDxGfmzPAwWRC",
-  "clientId": "jJhFRcGAKNntKI91Esj0k9Po6BXMyA-5b2fWuz9xxcx1HpZTDAYs6WGFA1fLbfd-"
+  "domain": "dev-u4sscvy7xpyvkecy.us.auth0.com",
+  "clientId": "AIlSlujAfF9K5dg1QP1VtpQjEDe395oo",
+  "audience": "https://quickstart/api"
 }
